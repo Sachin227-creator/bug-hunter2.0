@@ -1,0 +1,2 @@
+# bug-hunter2.0
+DETECT DEBUG DOMINATE
